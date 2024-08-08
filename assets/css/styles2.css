@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.stickers{
+    display: flex;
+    flex-direction: row;
+}
+
+.conj1{
+    display: flex;
+    flex-direction: column;
+}
+
+.conj2{
+    display: flex;
+    flex-direction: column;
+}
+
+.conj3{
+    display: flex;
+    flex-direction: column;
+}
+
+.comp{
+    margin: 15px;
+}
+
